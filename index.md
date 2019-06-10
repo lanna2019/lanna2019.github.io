@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 法缘
 
 You can use the [editor on GitHub](https://github.com/lanna2019/lanna2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
