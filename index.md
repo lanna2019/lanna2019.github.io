@@ -18,7 +18,7 @@
 
 **●友好链接**
 
-[大纪元新闻](https://git.io/dajiyan)|[真相](https://qqtrex1234.github.io/smile/index.html)|[网门oGate](https://github.com/ogate2/ogate)   | [无界网络](https://github.com/bannedbook/fanqiang/wiki#to-wjw) | [广传真相平台](https://github.com/bannedbook/fanqiang/wiki#gczxpt)|
+[大纪元新闻](https://git.io/dajiyan)|[真相视频](https://qqtrex1234.github.io/smile/index.html)|[网门oGate](https://github.com/ogate2/ogate)   | [无界网络](https://github.com/bannedbook/fanqiang/wiki#to-wjw) | [广传真相平台](https://github.com/bannedbook/fanqiang/wiki#gczxpt)|
 
 QQ或360浏览器流氓拦截请放行。
 
