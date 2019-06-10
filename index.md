@@ -34,3 +34,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+**●友好链接**
+
+[网门oGate](https://github.com/ogate2/ogate)   | [无界网络](https://github.com/bannedbook/fanqiang/wiki#to-wjw) | [广传真相平台](https://github.com/bannedbook/fanqiang/wiki#gczxpt)|[大纪元新闻](https://git.io/dajiyan)|
+
+QQ或360浏览器流氓拦截请放行。
+
+-----------------------------------------------------------
+
+问题反馈：lili.9583@gmail.com
