@@ -9,9 +9,9 @@
 
 [一键翻墙软件](https://github.com/dfh1/fq) 
 
-&nbsp;|&nbsp; 
+
 -----------------------------------------------------------
 
 本页固定短网址：[https://git.io/fjgKm](https://git.io/fjgKm)
 
-QQ或360浏览器流氓拦截请放行。
+QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp; 
