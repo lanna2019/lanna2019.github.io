@@ -11,7 +11,7 @@
 [・我所知道的地球历史与奥秘](https://github.com/lanna2019/lanna2019.github.io/issues/141#issue-456646755) |
 [・宿命通追溯上古神话之谜](https://github.com/lanna2019/lanna2019.github.io/issues/130#issue-456645174) |
 [・宇宙历史真相和佛道神人及宗教的真相](https://github.com/lanna2019/lanna2019.github.io/issues/110#issue-456642762) |
-[・笑语天上人间](https://qxs.la/132227/)
+[・笑语天上人间](https://qxs.la/132227/) |
 ・轮回纪实：艰辛寻法 |
 ・轮回纪实：千载法缘 |
 ・天涯寻法 |
