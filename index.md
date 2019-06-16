@@ -17,7 +17,7 @@
 ・天涯寻法 |
 
 -----------------------------------------------------------
-### 新闻网
+### 禁闻
 
 [・大头条集锦](https://github.com/gfw-breaker/banned-news/blob/master/indexes/nf4514.md?t=06161236) 
 
