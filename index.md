@@ -19,7 +19,8 @@
 -----------------------------------------------------------
 ### 禁闻
 
-[・大头条集锦](https://github.com/gfw-breaker/banned-news/blob/master/indexes/nf4514.md?t=06161236) 
+[・大头条集锦](https://github.com/gfw-breaker/banned-news/blob/master/indexes/nf4514.md?t=06161236)  |
+[・看时局](https://github.com/gfw-breaker/banned-news/blob/master/indexes/prog1138.md?t=06161236)  |
 
 -----------------------------------------------------------
 ### 梯子部落
