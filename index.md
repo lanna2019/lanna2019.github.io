@@ -39,5 +39,3 @@ QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp;
 
 -----------------------------------------------------------
 
-<script src="http://www.admin88.com/mystat.asp?id=52548&logo=1"></script>
-
