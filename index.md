@@ -38,34 +38,62 @@
 QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp; 
 
 -----------------------------------------------------------
-<!-- 不蒜子计数 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv" style='display:none'>| 总访问量 <span id="busuanzi_value_site_pv"></span> 次 </span>
-<span id="busuanzi_container_site_uv" style='display:none'>| 总访客数 <span id="busuanzi_value_site_uv"></span> 人 </span>
-<!-- 不蒜子计数 -->  
 
 
-<!-- 不蒜子计数初始值纠正 -->
-<script>
-$(document).ready(function() {
-
-    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
-    var countOffset = 20000;  // 初始化首次数据
-
-    function fixCount() {            
-       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
-        {
-            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
-            clearInterval(int);
-        }                  
-        if ($("#busuanzi_container_site_pv").css("display") != "none")
-        {
-            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
-            clearInterval(int); // 停止检测
+    <%@ page contentType="text/html" pageEncoding="GBK"%>  
+    <%@ page import="java.io.*"%>  
+    <%@ page import="java.util.*"%>  
+    <%@ page import="java.math.*"%>  
+    <html>  
+    <head><title>网站计数器</title></head>  
+    <body>  
+    <%!  
+        BigInteger count = null ;  
+    %>  
+    <%!  // 为了开发简便，将所有的操作定义在方法之中，所有的异常直接加入完整的try...catch处理  
+        public BigInteger load(File file){  
+            BigInteger count = null ;   // 接收数据  
+            try{  
+                if(file.exists()){  
+                    Scanner scan = new Scanner(new FileInputStream(file)) ;//从文件中读取  
+                    if(scan.hasNext()){  
+                        count = new BigInteger(scan.next()) ;//将内容放到BigInteger类中  
+                    }  
+                    scan.close() ;  
+                } else {    // 应该保存一个新的，从0开始  
+                    count = new BigInteger("0") ;  
+                    save(file,count) ;  // 保存一个新的文件  
+                }  
+            }catch(Exception e){  
+                e.printStackTrace() ;  
+            }  
+            return count ;  
         }  
-    }
-        
-});
-</script> 
+        public void save(File file,BigInteger count){//保存计数文件  
+            try{  
+                PrintStream ps = null ;//定义输出流对象  
+                ps = new PrintStream(new FileOutputStream(file)) ;//打印流对象  
+                ps.println(count) ;//保存数据  
+                ps.close() ;  
+            }catch(Exception e){  
+                e.printStackTrace() ;  
+            }  
+        }  
+    %>  
+    <%  
+        String fileName = this.getServletContext().getRealPath("/") + "count.txt";  // 这里面保存所有的计数的结果  
+        File file = new File(fileName) ;  
+        if(session.isNew()){  
+            synchronized(this){  
+                count = load(file) ;    // 读取  
+                count = count.add(new BigInteger("1")) ;    // 再原本的基础上增加1。  
+                save(file,count) ;  
+            }  
+        }  
+    %>  
+    <h2>您是第<%=count==null?0:count%>位访客！</h2>  
+    </body>  
+    </html>  
+
 
 
