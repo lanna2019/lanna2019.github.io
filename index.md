@@ -39,5 +39,4 @@ QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp;
 
 -----------------------------------------------------------
 
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=lanna2019.github.io&digit=style/plain/1/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter blog</a>
 
