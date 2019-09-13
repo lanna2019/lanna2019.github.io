@@ -1,9 +1,9 @@
 ### 法缘
-
+[・《回望尘寰》(2019年新版)]|
 [・空空无空文集](https://github.com/lanna2019/lanna2019.github.io/issues/65#issue-454113136) |
 [・未央（空空无空）与下凡众佛道神及三界众生的交流](https://github.com/lanna2019/lanna2019.github.io/issues/64#issue-454107840) |
 [・历史的天空](https://github.com/lanna2019/lanna2019.github.io/issues/108#issue-456639959) |
-[・一梦万劫终靠岸](https://github.com/lanna2019/lanna2019.github.io/issues/91#issue-454726509) |
+
 
 -----------------------------------------------------------
 ### 生命探索
@@ -11,11 +11,9 @@
 [・我所知道的地球历史与奥秘](https://github.com/lanna2019/lanna2019.github.io/issues/141#issue-456646755) |
 [・宿命通追溯上古神话之谜](https://github.com/lanna2019/lanna2019.github.io/issues/130#issue-456645174) |
 [・宇宙历史真相和佛道神人及宗教的真相](https://github.com/lanna2019/lanna2019.github.io/issues/110#issue-456642762) |
+[・一梦万劫终靠岸](https://github.com/lanna2019/lanna2019.github.io/issues/91#issue-454726509) |
 [・笑语天上人间](https://qxs.la/132227/) |
-・轮回纪实：艰辛寻法 |
-・轮回纪实：千载法缘 |
-・天涯寻法 |
-・万物皆有灵 |
+
 
 -----------------------------------------------------------
 ### 禁闻
