@@ -38,11 +38,5 @@ QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp;
 
 -----------------------------------------------------------
 
-Total <span id="busuanzi_value_site_pv"></span> views.
-您是xxx的第<span id="busuanzi_value_site_uv"></span>个小伙伴
-<span id="busuanzi_value_page_pv"></span> Hits
-
-
-<span id="busuanzi_container_site_pv" style='display:none'>
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
