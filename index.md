@@ -61,6 +61,7 @@ var gitment = new Gitment({
   oauth: {
     client_id: '49aad9c5ae5a1a95adee',
     client_secret: '5f1c714213ca19d4eaf9edc7c7c66fa7a8807b3b',
+    redirect_uri: 'https//:lanna2019.github.io'
   },
 })
 gitment.render('container')
