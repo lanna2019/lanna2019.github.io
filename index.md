@@ -50,19 +50,3 @@ alt="AmazingCounters.com"></a></div>
 
 
 
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: '<%= page.date %>', // 可选。默认为 location.href
-  owner: 'lanna2019',
-  repo: 'lanna2019.github.io',
-  oauth: {
-    client_id: '49aad9c5ae5a1a95adee',
-    client_secret: '5f1c714213ca19d4eaf9edc7c7c66fa7a8807b3b',
-    redirect_uri: 'https//:lanna2019.github.io'
-  },
-})
-gitment.render('container')
-</script>
