@@ -47,3 +47,21 @@ QQ或360浏览器流氓拦截请放行。&nbsp;|&nbsp;
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" 
 src="http://cc.amazingcounters.com/counter.php?i=3243039&c=9729430" 
 alt="AmazingCounters.com"></a></div>
+
+
+
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: '<%= page.date %>', // 可选。默认为 location.href
+  owner: '你的 GitHub ID',
+  repo: '存储评论的 repo',
+  oauth: {
+    client_id: '你的 client ID',
+    client_secret: '你的 client secret',
+  },
+})
+gitment.render('container')
+</script>
