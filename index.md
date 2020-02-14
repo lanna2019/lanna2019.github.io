@@ -28,6 +28,8 @@
 [・梯子&新闻](https://github.com/dfh1/fq)  |
 [・新闻同步](https://github.com/dfh2/djy/blob/master/gb/nsc413.md?fldf#1)  |
 [・禁闻聚合](https://github.com/gfw-breaker/banned-news1)  |
+[・明慧期刊](https://github.com/gfw-breaker/mh-qikan)  |
+[・江峰漫谈](https://github.com/gfw-breaker/jiangfeng-subtitles)  |
 
 -----------------------------------------------------------
 ### 梯子部落
