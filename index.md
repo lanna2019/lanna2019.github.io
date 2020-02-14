@@ -25,16 +25,15 @@
 -----------------------------------------------------------
 ### 禁闻
 
-[・大头条集锦](https://github.com/gfw-breaker/banned-news/blob/master/indexes/nf4514.md?t=06161236)  |
-[・看时局](https://github.com/gfw-breaker/banned-news/blob/master/indexes/prog1138.md?t=06161236)  |
+[・梯子&新闻](https://github.com/dfh1/fq)  |
 [・新闻同步](https://github.com/dfh2/djy/blob/master/gb/nsc413.md?fldf#1)  |
 
 -----------------------------------------------------------
 ### 梯子部落
 
-[・梯子&新闻](https://github.com/dfh1/fq)  |
-[・网门安卓版](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=06161236)  |
-[・禁闻聚合安卓版](https://github.com/gfw-breaker/bn-android)  |
+
+[・网门安卓版](https://gitlab.com/szzdlab/www/raw/master/szzd/oGate.apk?dfxgqfwa2071h)  |
+[・网门2安卓版](https://github.com/gfw-breaker/bn-android/blob/master/ogate.md?t=06161236)  |
 [・梯子软件合集2](https://github.com/gfw-breaker/nogfw)  |
 
 -----------------------------------------------------------
