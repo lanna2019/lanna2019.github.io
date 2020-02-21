@@ -41,7 +41,7 @@
 -----------------------------------------------------------
 ### 友情链接
 
-[・好文](https://github.com/lanna2019/lanna2019.github.io/issues/226#issue-565342178) |
+[・旋机](https://git.io/Jv8yw) |
 [・天象警人](http://hwch.2zj.pw)  |
 [・回望尘寰](http://hw.2zj.pw)  |
 
