@@ -24,9 +24,10 @@
 -----------------------------------------------------------
 ### 禁闻
 
+[・旋机](https://git.io/Jv8yV) |
+[・禁闻聚合](https://github.com/gfw-breaker/banned-news1)  |
 [・梯子&新闻](https://github.com/dfh1/fq)  |
 [・新闻同步](https://github.com/dfh2/djy/blob/master/gb/nsc413.md?fldf#1)  |
-[・禁闻聚合](https://github.com/gfw-breaker/banned-news1)  |
 [・明慧期刊](https://github.com/gfw-breaker/mh-qikan)  |
 [・江峰漫谈](https://github.com/gfw-breaker/jiangfeng-subtitles)  |
 
@@ -40,8 +41,6 @@
 
 -----------------------------------------------------------
 ### 友情链接
-
-[・旋机](https://git.io/Jv8yV) |
 [・天象警人](http://hwch.2zj.pw)  |
 [・回望尘寰](http://hw.2zj.pw)  |
 
