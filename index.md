@@ -1,4 +1,4 @@
-                             法缘
+           法缘
 
 [空空无空文集](https://github.com/lanna2019/lanna2019.github.io/issues/65#issue-454113136)
 
@@ -9,7 +9,7 @@
 [同修好文](https://github.com/lanna2019/lanna2019.github.io/issues/181#issue-527641136)
 
 
-                             其他文章
+           其他文章
 
 [历史的天空](https://github.com/lanna2019/lanna2019.github.io/issues/108#issue-456639959)
 
