@@ -1,12 +1,14 @@
-人生最难是放下
+[空空无空文集](https://github.com/lanna2019/lanna2019.github.io/issues/65#issue-454113136)
+[未央（空空无空）与下凡众佛道神及三界众生的交流](https://github.com/lanna2019/lanna2019.github.io/issues/64#issue-454107840)
+[慧心交流集](https://github.com/lanna2019/lanna2019.github.io/issues/180#issue-527641081)
+[同修好文](https://github.com/lanna2019/lanna2019.github.io/issues/181#issue-527641136)
 
-有个人每天都在烦恼中度过，痛苦不堪。于是离家找寻摆脱烦恼的方法。离开的第二天，想起自己每天出去打工，每天可以挣到几文钱，去掉生活开支还会剩下一些存起来，可是现在却一文也得不到，还有搭上路费和住店的钱。想到这里情不自禁的烦恼起来。可是不管怎么烦恼也是不争的事实，于是这个人就想：“反正出来了，就当是一次旅行吧。既然想也没有用，就不管他了。”就这样他放下了挣钱的事，开始变得快乐起来。
 
-好景不常，不久他又想到了自己的妻子，自己不在家时，是不是非常寂寞。这样想起来，这个人又开始烦恼了。可是转念一想：“自己远在百里之外，想也没有用，只能徒增烦恼。”这样想起来，他又放下了，又快乐起来。
-
-过了几天，他又不停的想起自己的父母、孩子、工作和朋友等，都因为无可奈何，放下了。在外边呆了十几天后，这个人忽然想开了。原来自己的一切烦恼都来自“做不到又放不下”。
-
-这个人于是返家，发现家里没有太大的变化，和自己离开时差不多，还是老样子。唯一不同的是，他明白了一个道理“既然自己无可奈何的事情，为什么不放下呢？”放下无可奈何的烦恼，自己也就变得快乐了。
+[历史的天空](https://github.com/lanna2019/lanna2019.github.io/issues/108#issue-456639959)
+[一梦万劫终靠岸](https://github.com/lanna2019/lanna2019.github.io/issues/91#issue-454726509)
+[宇宙历史真相和佛道神人及宗教的真相](https://github.com/lanna2019/lanna2019.github.io/issues/110#issue-456642762)
+[宿命通追溯上古神话之谜](https://github.com/lanna2019/lanna2019.github.io/issues/130#issue-456645174)
+[我所知道的地球历史与奥秘](https://github.com/lanna2019/lanna2019.github.io/issues/141#issue-456646755)
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
